@@ -22,12 +22,12 @@ body {
 }
 
 .slide {
-  height: 80vh;
+  height: 95vh;
   border-radius: 18px;
   margin: 8px;
   cursor: pointer;
   color: #fff;
-  flex: 1;
+  flex: 3;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
